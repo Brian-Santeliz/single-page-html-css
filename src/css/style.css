@@ -1,0 +1,21 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+html,
+body {
+  height: 100%;
+}
+.boton-mas {
+  border-radius: 2em;
+  padding: 1em;
+  width: 30em;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+}
